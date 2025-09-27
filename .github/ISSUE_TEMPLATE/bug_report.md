@@ -18,7 +18,7 @@ Please provide a detailed description of the issue or feature request.
 
 ---
 
-## For Bug Reports 🐛
+## Bug Reports 🐛
 ### Expected Behavior
 What did you expect to happen?
 
@@ -42,34 +42,6 @@ If applicable, add screenshots or paste error messages here.
 - **Screen Resolution**: [if relevant, e.g., 1920x1080, mobile viewport]
 
 ---
-
-## For Feature Requests ✨
-### Feature Description
-What feature would you like to see added?
-
-### Use Case
-Why would this feature be beneficial? How would it improve the project?
-
-### Proposed Solution
-Do you have any ideas on how this could be implemented?
-
-### Alternatives Considered
-Have you considered any alternative solutions or features?
-
----
-
-## For Documentation Issues 📚
-### Affected Documentation
-Which documentation page or section needs updating?
-
-### Suggested Changes
-What changes or improvements should be made?
-
-### Additional Context
-Provide any other relevant information about the documentation issue.
-
----
-
 ## Additional Information
 Add any other context, screenshots, or information that might be helpful.
 
