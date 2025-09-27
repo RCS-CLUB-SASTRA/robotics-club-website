@@ -7,14 +7,30 @@ assignees: ''
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+## Feature Requests ✨
+### Feature Description
+What feature would you like to see added?
 
-**Describe alternatives you've considered**
-A clear and concise description of any alternative solutions or features you've considered.
+### Use Case
+Why would this feature be beneficial? How would it improve the project?
 
-**Additional context**
-Add any other context or screenshots about the feature request here.
+### Proposed Solution
+Do you have any ideas on how this could be implemented?
+
+### Alternatives Considered
+Have you considered any alternative solutions or features?
+
+---
+
+## For Documentation Issues 📚
+### Affected Documentation
+Which documentation page or section needs updating?
+
+### Suggested Changes
+What changes or improvements should be made?
+
+### Additional Context
+Provide any other relevant information about the documentation issue.
+
+---
