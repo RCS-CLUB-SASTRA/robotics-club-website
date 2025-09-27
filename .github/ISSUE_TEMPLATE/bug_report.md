@@ -1,38 +1,79 @@
 ---
-name: Bug report
-about: Create a report to help us improve
-title: ''
+name: General Issue Template
+about: Use this template for bug reports, feature requests, or general questions
+title: '[TYPE] Brief description of the issue'
 labels: ''
 assignees: ''
+---
+
+## Issue Type
+Please check one of the following:
+- [ ] 🐛 Bug
+- [ ] ✨ Feature request
+- [ ] 📚 Documentation
+- [ ] ❓ Question/Help
+
+## Description
+Please provide a detailed description of the issue or feature request.
 
 ---
 
-**Describe the bug**
-A clear and concise description of what the bug is.
+## For Bug Reports 🐛
+### Expected Behavior
+What did you expect to happen?
 
-**To Reproduce**
-Steps to reproduce the behavior:
-1. Go to '...'
-2. Click on '....'
-3. Scroll down to '....'
-4. See error
+### Actual Behavior
+What actually happened?
 
-**Expected behavior**
-A clear and concise description of what you expected to happen.
+### Steps to Reproduce
+Please provide specific steps to reproduce the issue:
+1. Open the website in a browser
+2. Navigate to [specific page/section]
+3. Perform [specific action]
+4. Observe the error/unexpected behavior
 
-**Screenshots**
-If applicable, add screenshots to help explain your problem.
+### Screenshots/Error Messages
+If applicable, add screenshots or paste error messages here.
 
-**Desktop (please complete the following information):**
- - OS: [e.g. iOS]
- - Browser [e.g. chrome, safari]
- - Version [e.g. 22]
+### Environment
+- **OS**: [e.g., Windows 10, macOS Big Sur, Ubuntu 20.04]
+- **Browser**: [e.g., Chrome 95, Firefox 94, Safari 15]
+- **Device**: [e.g., Desktop, Mobile, Tablet]
+- **Screen Resolution**: [if relevant, e.g., 1920x1080, mobile viewport]
 
-**Smartphone (please complete the following information):**
- - Device: [e.g. iPhone6]
- - OS: [e.g. iOS8.1]
- - Browser [e.g. stock browser, safari]
- - Version [e.g. 22]
+---
 
-**Additional context**
-Add any other context about the problem here.
+## For Feature Requests ✨
+### Feature Description
+What feature would you like to see added?
+
+### Use Case
+Why would this feature be beneficial? How would it improve the project?
+
+### Proposed Solution
+Do you have any ideas on how this could be implemented?
+
+### Alternatives Considered
+Have you considered any alternative solutions or features?
+
+---
+
+## For Documentation Issues 📚
+### Affected Documentation
+Which documentation page or section needs updating?
+
+### Suggested Changes
+What changes or improvements should be made?
+
+### Additional Context
+Provide any other relevant information about the documentation issue.
+
+---
+
+## Additional Information
+Add any other context, screenshots, or information that might be helpful.
+
+### Checklist
+- [ ] I have searched existing issues to make sure this is not a duplicate
+- [ ] I have provided all the requested information above
+- [ ] I have added appropriate labels (if I have permission)
