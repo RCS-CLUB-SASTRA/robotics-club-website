@@ -22,15 +22,3 @@ Do you have any ideas on how this could be implemented?
 Have you considered any alternative solutions or features?
 
 ---
-
-## For Documentation Issues 📚
-### Affected Documentation
-Which documentation page or section needs updating?
-
-### Suggested Changes
-What changes or improvements should be made?
-
-### Additional Context
-Provide any other relevant information about the documentation issue.
-
----
