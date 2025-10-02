@@ -6,44 +6,41 @@ labels: ''
 assignees: ''
 ---
 
-## Issue Type
-Please check one of the following:
-- [ ] 🐛 Bug
-- [ ] ✨ Feature request
-- [ ] 📚 Documentation
-- [ ] ❓ Question/Help
+## Bug Report
 
-## Description
-Please provide a detailed description of the issue or feature request.
+### **Title:**  
+*Briefly describe the bug.*
+
+### **Description:**  
+*What’s happening and what should happen?*
+
+### **Steps to Reproduce:**  
+1. Step 1  
+2. Step 2  
+
+### **Expected Behavior:**  
+*What should happen?*
+
+### **Actual Behavior:**  
+*What happens instead?*
+
+### **Screenshots/Logs:**  
+*Attach relevant images or error messages.*
+
+---
+
+### **Severity:**
+- [ ] Critical  
+- [ ] Major  
+- [ ] Minor  
 
 ---
 
-## Bug Reports 🐛
-### Expected Behavior
-What did you expect to happen?
-
-### Actual Behavior
-What actually happened?
-
-### Steps to Reproduce
-Please provide specific steps to reproduce the issue:
-1. Open the website in a browser
-2. Navigate to [specific page/section]
-3. Perform [specific action]
-4. Observe the error/unexpected behavior
-
-### Screenshots/Error Messages
-If applicable, add screenshots or paste error messages here.
-
-### Environment
-- **OS**: [e.g., Windows 10, macOS Big Sur, Ubuntu 20.04]
-- **Browser**: [e.g., Chrome 95, Firefox 94, Safari 15]
-- **Device**: [e.g., Desktop, Mobile, Tablet]
-- **Screen Resolution**: [if relevant, e.g., 1920x1080, mobile viewport]
+### **Is this issue reproducible?**  
+- [ ] Yes  
+- [ ] No  
 
 ---
-## Additional Information
-Add any other context, screenshots, or information that might be helpful.
 
 ### Checklist
 - [ ] I have searched existing issues to make sure this is not a duplicate
