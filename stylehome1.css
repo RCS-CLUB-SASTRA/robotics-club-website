@@ -1,0 +1,57 @@
+.box{
+    background-color: white;
+    color: rgb(0, 0, 0);
+    display: flex;
+    text-transform: uppercase;
+    justify-content: space-between;
+}
+ul,li{
+    display: inline;
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+   
+}
+li{
+    color: black;
+    font-family: fontstyle,cursive;
+}
+li:hover{
+    color: blue;
+}
+ul,a{
+    text-decoration: none;
+}
+ul{
+    margin-top:3.8%;
+    margin-left:18%;
+    margin-bottom: 3.8%;
+}
+body{
+    background-color: black;
+}
+@font-face {
+    font-family:fontstyle;
+    src: url("./fonts_style/Bungee-Regular.ttf");
+}
+.images{
+    margin: 100px 0 0 200px;
+    width: 70%;
+    height: 450px;
+    display: flex;
+    justify-content:center;
+    gap: 10px;
+}
+.images img{
+   width: 10%;
+   height: 100%;
+   object-fit: cover;
+   border-radius: 10px;
+   transition: all ease-in-out 0.3s;
+}
+.images img:hover{
+    width: 200%;
+    height: 120%;
+    transform: scale(1.2);
+    box-shadow: 0 0 20px 5px white;
+    transition: smooth;
+}
